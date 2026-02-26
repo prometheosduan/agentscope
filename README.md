@@ -2,9 +2,12 @@
 
 AI Agent Observability Platform - Landing Page for collecting early access signups.
 
-## Quick Deploy
+## Quick Deploy (One-Click)
 
-### Option 1: Vercel (Recommended)
+### Vercel (Recommended)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/prometheosduan/agentscope)
+
+Or manually:
 1. Go to [Vercel.com](https://vercel.com)
 2. Import this repository
 3. Deploy
